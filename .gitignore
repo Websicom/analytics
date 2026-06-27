@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.*
+!.env.example
+.vercel/
+.server-pid
+server.log
+server.out.log
+server.err.log
+verification-screenshot.png
